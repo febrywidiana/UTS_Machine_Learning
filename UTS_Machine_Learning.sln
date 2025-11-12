@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageClassifier", "GarbageClassifier\GarbageClassifier.csproj", "{93AECEA2-7DA2-9714-19C7-71585D37FAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93AECEA2-7DA2-9714-19C7-71585D37FAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AECEA2-7DA2-9714-19C7-71585D37FAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AECEA2-7DA2-9714-19C7-71585D37FAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AECEA2-7DA2-9714-19C7-71585D37FAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C1118E-6DC5-4345-A283-1765C7C33850}
+	EndGlobalSection
+EndGlobal
