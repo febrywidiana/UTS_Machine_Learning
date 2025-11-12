@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GarbageClassifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba89f90f496c1e7dcf86a53f6c7f14859bf59bca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9601f10cc2bc8b9af32f3231593b674c4144083")]
 [assembly: System.Reflection.AssemblyProductAttribute("GarbageClassifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GarbageClassifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

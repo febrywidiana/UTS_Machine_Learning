@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+mlnet_workspace/
+
+
+
+# Model & file besar
+*.zip
+*.dll
+*.exe
+*.pdb
+
+# System & temporary files
+.vs/
+*.user
+*.db
+*.DS_Store
+Thumbs.db
